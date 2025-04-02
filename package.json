@@ -1,0 +1,18 @@
+{
+  "name": "learningbackend",
+  "version": "1.0.0",
+  "description": "creating a practice app backend",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "Ananta Devraj",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0"
+  }
+}
