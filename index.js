@@ -16,5 +16,5 @@ app.listen(process.env.PORT, () => {
   console.log(`Example app listening on port ${port}`)
 })
 
-//for productuion level we have to hide some private data or some data that should not be shared.
+//for production level we have to hide some private data or some data that should not be shared.
 //so We have to use dotenv (.env)
